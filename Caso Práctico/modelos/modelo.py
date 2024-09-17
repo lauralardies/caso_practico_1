@@ -24,6 +24,9 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_
 
 
 # Entrenamos el modelo de Gradient Boosting
-xgb = GradientBoostingClassifier(random_state=912)
-xgb.fit(X_train, y_train)
-xgb_pred = xgb.predict(X_test)
+gb_model = GradientBoostingClassifier(random_state=912)
+gb_model.fit(X_train, y_train)
+gb_pred = gb_model.predict(X_test)
+
+# Entrenamos el modelo de Extreme Gradient Boosting
+xgb_model = xgb.XGBClassifier(random_state=912)
