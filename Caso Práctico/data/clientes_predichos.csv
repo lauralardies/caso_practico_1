@@ -883,6 +883,7 @@ I,TIPO7,FUEL 1,Alta,M,Financiera Marca,CASADO,M,Empresa,Valencia,NO,NO,SI,Alto,N
 I,TIPO7,FUEL 1,Alta,M,Contado,CASADO,F,Empresa,Gerona,NO,NO,SI,Alto,NO DATA,No,NO,3k-5k,0-10k,1,60+,1,0.19574714,0.80425286
 I,TIPO7,FUEL 1,Alta,M,Financiera Marca,CASADO,M,Empresa,Zaragoza,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,0,40-50,1,0.14186305,0.85813695
 I,TIPO7,FUEL 1,Alta,M,Financiera Marca,CASADO,M,Empresa,Madrid,SI,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,18-40,1,0.45226598,0.547734
+I,TIPO7,FUEL 1,Alta,M,Financiera Marca,CASADO,M,Empresa,Zaragoza,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,0,40-50,1,0.14186305,0.85813695
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Zaragoza,SI,NO,NO,Medio,SI,Averia grave,NO,3k-5k,10k-20k,1,50-60,1,0.40897417,0.5910258
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,EN PAREJA,M,Empresa,Barcelona,SI,NO,SI,Alto,SI,Averia leve,NO,3k-5k,10k-20k,1,40-50,1,0.3733076,0.6266924
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Barcelona,SI,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,0,50-60,1,0.45226598,0.547734
@@ -1719,6 +1720,7 @@ I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Zaragoza,SI,NO,NO,Alto,
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Badajoz,SI,NO,NO,Medio-Bajo,SI,No,NO,5k-10k,20k-30k,2,40-50,1,0.41016012,0.5898399
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Gerona,SI,NO,SI,Medio-Bajo,NO DATA,No,NO,3k-5k,0-10k,1,18-40,1,0.45644403,0.543556
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Madrid,SI,NO,SI,Medio,SI,No,NO,2k-3k,20k-30k,2,50-60,1,0.28927398,0.710726
+I,TIPO7,FUEL 2,Media,M,Financiera Marca,SOLTERO,M,Empresa,Valencia,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,18-40,1,0.18370944,0.81629056
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,SOLTERO,M,Autonomo,Barcelona,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,60+,1,0.25694048,0.7430595
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Vizcaya,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,18-40,1,0.14186305,0.85813695
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Murcia,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,2,60+,1,0.19574714,0.80425286
@@ -1863,6 +1865,7 @@ I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Lacoruna,SI,NO,SI,Alto,
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Valencia,SI,NO,SI,Alto,NO DATA,Averia grave,NO,2k-3k,0-10k,1,18-40,1,0.0739184,0.9260816
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Autonomo,Santa Cruz de Tenerife,NO,NO,SI,Alto,NO DATA,No,NO,3k-5k,0-10k,1,18-40,1,0.14186305,0.85813695
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,F,Empresa,Albacete,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,60+,1,0.19574714,0.80425286
+I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Murcia,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,60+,1,0.19574714,0.80425286
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Baleares,SI,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,0,40-50,1,0.45226598,0.547734
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Lugo,SI,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,18-40,1,0.45226598,0.547734
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,F,Empresa,Alicante,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,0,60+,1,0.19574714,0.80425286
@@ -2026,6 +2029,7 @@ I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Madrid,SI,NO,SI,Alto,NO
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Zaragoza,SI,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,60+,1,0.03589201,0.964108
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Valencia,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,60+,1,0.06250477,0.93749523
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Gerona,SI,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,18-40,1,0.45226598,0.547734
+I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Madrid,SI,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,50-60,1,0.45226598,0.547734
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,F,Empresa,Baleares,SI,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,60+,1,0.1427427,0.8572573
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Toledo,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,18-40,1,0.14186305,0.85813695
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,F,Empresa,Valencia,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,0,18-40,1,0.14186305,0.85813695
@@ -2300,6 +2304,7 @@ I,TIPO7,FUEL 2,Media,M,Financiera Marca,SOLTERO,F,Empresa,Madrid,SI,NO,SI,Medio,
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Pontevedra,SI,NO,SI,Alto,SI,No,NO,3k-5k,30k-50k,1,60+,1,0.117801666,0.88219833
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,F,Empresa,Baleares,SI,NO,SI,Alto,NO DATA,No,NO,3k-5k,0-10k,1,18-40,1,0.45226598,0.547734
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,F,Empresa,Madrid,SI,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,18-40,1,0.45226598,0.547734
+I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Madrid,NO,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,1,60+,1,0.19574714,0.80425286
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,SOLTERO,M,Empresa,Barcelona,SI,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,0,60+,1,0.25855583,0.7414442
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,CASADO,M,Empresa,Madrid,SI,NO,SI,Alto,NO DATA,No,NO,2k-3k,0-10k,0,50-60,1,0.45226598,0.547734
 I,TIPO7,FUEL 2,Media,M,Financiera Marca,SOLTERO,M,Empresa,Vizcaya,NO,NO,SI,Alto,NO DATA,No,NO,3k-5k,0-10k,0,18-40,1,0.18370944,0.81629056
